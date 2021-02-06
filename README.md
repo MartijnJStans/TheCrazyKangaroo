@@ -1,4 +1,3 @@
-<!-- Project Shields -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Releases][releases-shield]][releases-url]
 [![Stars][stars-shield]][stars-url]
@@ -16,12 +15,10 @@
   <h3 align="center">The Crazy Kangaroo</h3>
 
   <p align="center">
-    The Crazy Kangaroo is a general purpose discord bot.
-    <br />
-    <a href="https://github.com/MartijnJStans/TheCrazyKangaroo"><strong>Explore the docs »</strong></a>
+    <a href="https://MartijnJStans.github.io/TheCrazyKangarooDocs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://thecrazykangaroo.xyz">Go to the website</a>
+    <a href="https://thecrazykangaroo.xyz">Go to our website</a>
     ·
     <a href="https://github.com/MartijnJStans/TheCrazyKangaroo/issues">Report Bug</a>
     ·
@@ -29,7 +26,18 @@
   </p>
 </p>
 
+<!-- ABOUT THE PROJECT -->
+## About
 
+The Crazy Kangaroo is a general purpose Discord bot. 
+
+
+### Features
+
+* **Moderation**
+* **Leveling**
+* **Web Dashboard**
+*****
 
 [contributors-shield]: https://img.shields.io/github/contributors/MartijnJStans/TheCrazyKangaroo.svg?logo=discord&style=for-the-badge
 [contributors-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/graphs/contributors
