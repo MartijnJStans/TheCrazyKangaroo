@@ -14,9 +14,5 @@
 [releases-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/releases
 [issues-shield]: https://img.shields.io/github/issues/MartijnJStans/TheCrazyKangaroo.svg?logo=discord&style=for-the-badge
 [issues-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/issues
-
-
-
-
-
-
+[website-shield]: https://img.shields.io/website?down_color=lightgrey&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fthecraztkangaroo.xyz
+[website-url]: https://thecraztkangaroo.xyz
