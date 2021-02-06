@@ -21,11 +21,14 @@
     <a href="https://github.com/MartijnJStans/TheCrazyKangaroo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <a href="https://thecrazykangaroo.xyz">Go to the website</a>
+    ·
     <a href="https://github.com/MartijnJStans/TheCrazyKangaroo/issues">Report Bug</a>
     ·
     <a href="https://github.com/MartijnJStans/TheCrazyKangaroo/issues">Request Feature</a>
   </p>
 </p>
+
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/MartijnJStans/TheCrazyKangaroo.svg?logo=discord&style=for-the-badge
