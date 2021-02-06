@@ -186,13 +186,13 @@ Project Link: [https://github.com/MartijnJStans/TheCrazyKangaroo](https://github
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/MartijnJStans/TheCrazyKangaroo.svg?style=for-the-badge
 [contributors-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MartijnJStans/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/MartijnJStans/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/MartijnJStans/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/MartijnJStans/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MartijnJStans/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/MartijnJStans/repo/issues
-[license-shield]: https://img.shields.io/github/license/MartijnJStans/repo.svg?style=for-the-badge
-[license-url]: https://github.com/MartijnJStans/repo/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/MartijnJStans/TheCrazyKangaroo.svg?style=for-the-badge
+[forks-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/network/members
+[stars-shield]: https://img.shields.io/github/stars/MartijnJStans/TheCrazyKangaroo.svg?style=for-the-badge
+[stars-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MartijnJStans/TheCrazyKangaroo.svg?style=for-the-badge
+[issues-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/issues
+[license-shield]: https://img.shields.io/github/license/MartijnJStans/TheCrazyKangaroo.svg?style=for-the-badge
+[license-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/MartijnJStans
