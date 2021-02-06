@@ -4,7 +4,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Releases][releases-shield]][releases-url]
 
 
 
@@ -169,9 +169,12 @@ Project Link: [https://github.com/MartijnJStans/TheCrazyKangaroo](https://github
 [forks-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/network/members
 [stars-shield]: https://img.shields.io/github/stars/MartijnJStans/TheCrazyKangaroo.svg?style=for-the-badge
 [stars-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/stargazers
+
+[releases-shield]: https://img.shields.io/github/releases/MartijnJStans/TheCrazyKangaroo.svg?style=for-the-badge
+[releases-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/releases
+
 [issues-shield]: https://img.shields.io/github/issues/MartijnJStans/TheCrazyKangaroo.svg?style=for-the-badge
 [issues-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/issues
 [license-shield]: https://img.shields.io/github/license/MartijnJStans/TheCrazyKangaroo.svg?style=for-the-badge
 [license-url]: https://github.com/MartijnJStans/TheCrazyKangaroo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/MartijnJStans
+
