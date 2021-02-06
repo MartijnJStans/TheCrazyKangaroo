@@ -5,28 +5,27 @@
 [![Issues][issues-shield]][issues-url]
 [![Website][website-shield]][website-url]
 
-<!-- PROJECT LOGO -->
-<div style="height: 20px;"></div>
 
+<!-- PROJECT LOGO -->
+<br />
 <p align="center">
   <a href="https://github.com/MartijnJStans/TheCrazyKangaroo">
-    <img src="/images/logo.png" alt="Logo" width="90" height="90">
+    <img src="/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">The Crazy Kangaroo</h3>
 
   <p align="center">
     The Crazy Kangaroo is a general purpose discord bot.
-    <div style="height: 20px;"></div>
+    <br />
     <a href="https://github.com/MartijnJStans/TheCrazyKangaroo"><strong>Explore the docs »</strong></a>
-    <div style="height: 40px;"></div>
+    <br />
+    <br />
     <a href="https://github.com/MartijnJStans/TheCrazyKangaroo/issues">Report Bug</a>
     ·
     <a href="https://github.com/MartijnJStans/TheCrazyKangaroo/issues">Request Feature</a>
   </p>
 </p>
-
-
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/MartijnJStans/TheCrazyKangaroo.svg?logo=discord&style=for-the-badge
