@@ -20,9 +20,9 @@
     <br />
     <a href="https://thecrazykangaroo.xyz">Go to our website</a>
     ·
-    <a href="https://github.com/MartijnJStans/TheCrazyKangaroo/issues">Report Bug</a>
+    <a href="https://github.com/MartijnJStans/TheCrazyKangaroo/issues/new?assignees=MartijnJStans&labels=&template=bug_report.md&title=">Report Bug</a>
     ·
-    <a href="https://github.com/MartijnJStans/TheCrazyKangaroo/issues">Request Feature</a>
+    <a href="https://github.com/MartijnJStans/TheCrazyKangaroo/issues/new?assignees=MartijnJStans&labels=&template=feature_request.md&title=">Request Feature</a>
   </p>
 </p>
 
